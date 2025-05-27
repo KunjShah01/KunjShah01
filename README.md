@@ -1,16 +1,5 @@
 # 👋 Hey there, I’m Kunj Shah!
 
-
-<!-- Replace 'profile.jpg' with your actual image filename after upload -->
-
----
-
-### 🖼️ Profile Image
-
-![20241012_083842 (1)](https://github.com/user-attachments/assets/cf470d79-4e0d-4c40-8d3f-29299fd4e370)
-
----
-
 ## 🧑‍💻 Python | AI/ML Student | Lifelong Learner
 
 **"Turning coffee and curiosity into tomorrow’s AI breakthroughs."**
