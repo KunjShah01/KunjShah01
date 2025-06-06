@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Aspiring AI/ML Engineer** – currently deep-diving into Artificial Intelligence and Machine Learning.
+- 🎓 ** AI/ML Engineer** – currently deep-diving into Artificial Intelligence and Machine Learning.
 - 🐍 **Pythonista at Heart** – passionate about data, smart algorithms, and automation.
 - 💡 **Driven by Curiosity** – always eager to learn, build, and share.
 - 🌱 **Growth Mindset** – learning never stops!
