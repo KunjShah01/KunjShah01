@@ -1,6 +1,6 @@
-# 👋 Hey there, I’m Kunj Shah!
+# 👋 Hi, I’m Kunj Shah!
 
-## 🧑‍💻 Python | AI/ML Student | Lifelong Learner
+## 🧑‍💻 Python | AI/ML Enthusiast | Lifelong Learner
 
 **"Turning coffee and curiosity into tomorrow’s AI breakthroughs."**
 
@@ -8,10 +8,10 @@
 
 ### 🚀 About Me
 
-- 🎓 ** AI/ML Engineer** – currently deep-diving into Artificial Intelligence and Machine Learning.
-- 🐍 **Pythonista at Heart** – passionate about data, smart algorithms, and automation.
-- 💡 **Driven by Curiosity** – always eager to learn, build, and share.
-- 🌱 **Growth Mindset** – learning never stops!
+- 🎓 **AI/ML Engineer** – Currently diving deep into Artificial Intelligence and Machine Learning.
+- 🐍 **Pythonista at Heart** – Passionate about data, smart algorithms, and automation.
+- 💡 **Driven by Curiosity** – Always eager to learn, build, and share.
+- 🌱 **Growth Mindset** – Learning never stops!
 
 ---
 
@@ -41,15 +41,14 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=KunjShah01&limit=5&theme=radical" alt="Contributor Stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunjShah01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-  <br>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[Project Name 1](#)** – Short description of what makes this project special or what you learned.
-- **[Project Name 2](#)** – Another cool project or collaboration.
+- **[SmartML Automator](#)** – Built a tool to automate end-to-end ML workflows, from data preprocessing to model deployment.
+- **[AI Chess Buddy](#)** – Developed a Python chess engine with AI-based move recommendations and visualization.
 - *(Add more projects here!)*
 
 ---
@@ -64,12 +63,11 @@
 ### 📫 Let’s Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunjShah01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 <!-- Add or remove socials as needed -->
 
 ---
-
 
 #### ⚡ “Stay curious, keep coding, and let’s build the future—one commit at a time!”
