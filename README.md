@@ -163,23 +163,40 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
----
-
 ## 🎲 Fun Zone
 
 <div align="center">
 
-### 😄 Random Dev Meme
-
-![Meme Card](https://api.memegen.link/images/code/Keep_calm/and_commit_often.png?width=400)
+---
 
 ### 🎉 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
 
-</div>
+---
+
+### 🧩 Mini Puzzle of the Day
+
+> **What comes next in the sequence?**  
+> `2, 6, 12, 20, 30, ___`
+
+<details>
+<summary>💡 Click to reveal the answer!</summary>
+
+**Answer:** 42  
+Pattern: n(n+1), where n=1,2,3,4,5,6...
+
+</details>
 
 ---
+
+### 🕹️ Play with My Portfolio!
+
+> Want to see more? [Check out my interactive portfolio! 🚀](https://kunjshah95.github.io/kunjs-portfolio-website.io/)
+
+---
+
+</div>
 
 ## 🤝 Let's Connect!
 
