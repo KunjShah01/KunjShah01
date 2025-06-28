@@ -1,4 +1,4 @@
-# 🚀 Welcome to Kunj's Digital Universe!
+# 🚀 Welcome to Kunj's Universe!
 
 <div align="center">
 
