@@ -82,7 +82,6 @@ const kunjShah = {
 
 | 🏷️ **Project** | 🚀 **Description** | 🔗 **Explore** | 
 |:-|:-|:-|
-| **AI Resume Screening** | An intelligent gatekeeper that reads between the lines, finding true gems with uncanny precision. | _Unveiling Soon_ |
 | **Agentic AI Projects** | A collection of digital beings, each born to master complex tasks and navigate the digital realm. | _The Genesis Continues_ |
 | **RL-A2A** | Teaching machines to learn through digital trial and error, creating resilient, intelligent agents. [(homepage)](https://rla2a.vercel.app/
 | **Tokenizer for Sanskrit** | A system to break down Sanskrit text into meaningful tokens for NLP tasks | [Sanskrit-Tokenizer](https://github.com/KunjShah01/Sanskrit-Tokenizer) |
@@ -91,7 +90,6 @@ const kunjShah = {
 | **MCP RAG Search Server** | A custom Model Context Protocol server with advanced RAG capabilities and multi-provider search | [mcp-rag-search-server](https://github.com/KunjShah01/mcp-rag-search-server) |
 | **README Generator** | AI-powered tool that instantly generates comprehensive READMEs for any GitHub repository | [github-multi-ai-agent-powered-readme-generator](https://github.com/KunjShah01/github-multi-ai-agent-powered-readme-generator) |
 | **Video Broadcaster** | Real-time video streaming and broadcasting system with multi-client support | [video-broadcaster](https://github.com/KunjShah01/video-broadcaster) |) | [RL-A2A](https://github.com/KunjShah01/RL-A2A) |
-| **TaskGPT** | An AI muse that transforms chaotic to-do lists into elegant, productive workflows. | [TaskGPT](https://github.com/KunjShah01/TaskGPT) |
 
 
 
