@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/KunjShah01?style=for-the-badge&color=yellow&labelColor=black" alt="GitHub stars" />
 </p>
 
-</div>
+
 
 ---
 
@@ -72,7 +72,7 @@ const kunjShah = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-</div>
+
 
 ---
 
@@ -84,10 +84,16 @@ const kunjShah = {
 |:-|:-|:-|
 | **AI Resume Screening** | An intelligent gatekeeper that reads between the lines, finding true gems with uncanny precision. | _Unveiling Soon_ |
 | **Agentic AI Projects** | A collection of digital beings, each born to master complex tasks and navigate the digital realm. | _The Genesis Continues_ |
-| **RL-A2A** | Teaching machines to learn through digital trial and error, creating resilient, intelligent agents. [(homepage)](https://rla2a.vercel.app/) | [RL-A2A](https://github.com/KunjShah01/RL-A2A) |
+| **RL-A2A** | Teaching machines to learn through digital trial and error, creating resilient, intelligent agents. [(homepage)](https://rla2a.vercel.app/
+| **Tokenizer for Sanskrit** | A system to break down Sanskrit text into meaningful tokens for NLP tasks | [Sanskrit-Tokenizer](https://github.com/KunjShah01/Sanskrit-Tokenizer) |
+| **Codebase Oracle** | AI-powered code analyzer that understands your entire codebase and provides intelligent insights | [codebase-oracle](https://github.com/KunjShah01/codebase-oracle) |
+| **Job Snipper** | An intelligent job listing aggregator that extracts and curates relevant opportunities | [job-snipper](https://github.com/KunjShah01/job-snipper) |
+| **MCP RAG Search Server** | A custom Model Context Protocol server with advanced RAG capabilities and multi-provider search | [mcp-rag-search-server](https://github.com/KunjShah01/mcp-rag-search-server) |
+| **README Generator** | AI-powered tool that instantly generates comprehensive READMEs for any GitHub repository | [github-multi-ai-agent-powered-readme-generator](https://github.com/KunjShah01/github-multi-ai-agent-powered-readme-generator) |
+| **Video Broadcaster** | Real-time video streaming and broadcasting system with multi-client support | [video-broadcaster](https://github.com/KunjShah01/video-broadcaster) |) | [RL-A2A](https://github.com/KunjShah01/RL-A2A) |
 | **TaskGPT** | An AI muse that transforms chaotic to-do lists into elegant, productive workflows. | [TaskGPT](https://github.com/KunjShah01/TaskGPT) |
 
-</div>
+
 
 ---
 
@@ -100,7 +106,7 @@ const kunjShah = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah01&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&custom_title=🗣️%20Languages%20of%20Power)
 
-</div>
+
 
 ---
 
@@ -114,7 +120,7 @@ const kunjShah = {
 | **Multi-Agent Collaboration** | Conducting a digital orchestra where AI agents compose solutions to impossible problems. | 🟠 Prototyping |
 | **AI Code Reviewer**          | A silicon critic that reads code not just for errors, but for elegance and style. | 🟢 Inception |
 
-</div>
+
 ---
 
 ## ⏳ My Rhythm
@@ -123,7 +129,7 @@ const kunjShah = {
 
 ![Coding Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunjShah01&bg_color=1a1b27&color=ffb300&line=00c7b7&point=ffb300&area=true&hide_border=true)
 
-</div>
+
 
 ## 🎲 A Glimpse Behind the Curtain
 
@@ -153,7 +159,7 @@ A Large Language Model (LLM)
 
 ---
 
-</div>
+
 
 ## 🤝 Let's Conspire
 
@@ -163,7 +169,7 @@ A Large Language Model (LLM)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://twitter.com/INDIA_KUNJ)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Whisper)](mailto:kunjkshah05@gmail.com)
 
-</div>
+
 
 ---
 
@@ -173,7 +179,7 @@ A Large Language Model (LLM)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunjShah01&bg_color=1a1b27&color=ffb300&line=00c7b7&point=ffb300&area=true&hide_border=true&custom_title=💻%20My%20Contribution%20Constellation)
 
-</div>
+
 
 ---
 
@@ -187,4 +193,4 @@ A Large Language Model (LLM)
 
 **🚀 If the future of intelligence excites you, leave a ⭐. Let's create something revolutionary. 🚀**
 
-</div>
+
