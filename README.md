@@ -83,8 +83,7 @@ const kunjShah = {
 | 🏷️ **Project** | 🚀 **Description** | 🔗 **Explore** | 
 |:-|:-|:-|
 | **Agentic AI Projects** | A collection of digital beings, each born to master complex tasks and navigate the digital realm. | _The Genesis Continues_ |
-| **RL-A2A** | Teaching machines to learn through digital trial and error, creating resilient, intelligent agents. [(homepage)](https://rla2a.vercel.app/
-| **Tokenizer for Sanskrit** | A system to break down Sanskrit text into meaningful tokens for NLP tasks | [Sanskrit-Tokenizer](https://github.com/KunjShah01/Sanskrit-Tokenizer) |
+| **RL-A2A** | Teaching machines to learn through digital trial and error, creating resilient, intelligent agents. [(homepage)](https://rla2a.vercel.app/) | [RL-A2A](https://github.com/KunjShah01/RL-A2A) || **Tokenizer for Sanskrit** | A system to break down Sanskrit text into meaningful tokens for NLP tasks | [Sanskrit-Tokenizer](https://github.com/KunjShah01/Sanskrit-Tokenizer) |
 | **Codebase Oracle** | AI-powered code analyzer that understands your entire codebase and provides intelligent insights | [codebase-oracle](https://github.com/KunjShah01/codebase-oracle) |
 | **Job Snipper** | An intelligent job listing aggregator that extracts and curates relevant opportunities | [job-snipper](https://github.com/KunjShah01/job-snipper) |
 | **MCP RAG Search Server** | A custom Model Context Protocol server with advanced RAG capabilities and multi-provider search | [mcp-rag-search-server](https://github.com/KunjShah01/mcp-rag-search-server) |
